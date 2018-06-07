@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielleshirel/mongooseHW/issues"
   },
-  "homepage": "https://github.com/danielleshirel/mongooseHW#readme"
+  "homepage": "https://github.com/danielleshirel/mongooseHW#readme",
+  "dependencies": {
+    "i": "^0.3.6"
+  }
 }
